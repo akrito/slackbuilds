@@ -1,0 +1,6 @@
+[submodule "desktop/evilvte"]
+	path = desktop/evilvte
+	url = git@github.com:akrito/evilvte.git
+[submodule "desktop/dwm-git"]
+	path = desktop/dwm-git
+	url = git@github.com:akrito/dwm.git
